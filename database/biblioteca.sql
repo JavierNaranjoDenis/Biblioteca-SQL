@@ -1,0 +1,33 @@
+CREATE DATABASE biblioteca;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Create database folder
