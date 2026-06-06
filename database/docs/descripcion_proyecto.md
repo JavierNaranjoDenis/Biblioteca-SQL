@@ -1,2 +1,0 @@
-# Descripción
-Proyecto de ejemplo.
